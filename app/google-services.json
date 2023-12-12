@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871495376507",
+    "project_id": "vargasfinal-3a8e9",
+    "storage_bucket": "vargasfinal-3a8e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871495376507:android:a893e3a04ffa2a7460ccde",
+        "android_client_info": {
+          "package_name": "com.example.vargas20100038ef2023"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe8ltMnrDNeaDykwEpzOrw3iY0c1-jE7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
